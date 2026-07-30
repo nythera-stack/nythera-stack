@@ -36,18 +36,10 @@ mindset:   if it's not documented, i'll document it myself
 <a href="https://github.com/nythera-stack/Rebuild-Exodia-repo">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nythera-stack&repo=Rebuild-Exodia-repo&theme=radical&hide_border=true&bg_color=0d0221" />
 </a>
-<a href="https://github.com/nythera-stack/NytheraShield">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nythera-stack&repo=NytheraShield&theme=radical&hide_border=true&bg_color=0d0221" />
-</a>
-<a href="https://github.com/nythera-stack/NytheraTweaks">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nythera-stack&repo=NytheraTweaks&theme=radical&hide_border=true&bg_color=0d0221" />
-</a>
 
 </div>
 
 - **Rebuild-Exodia** — a maintained-from-scratch fork/continuation of an abandoned Arch-based pentest distro: real bugs found, root-caused and fixed (boot freezes, broken updates, dead build pipeline), plus a from-scratch package-hosting pipeline so the fixes actually survive future updates.
-- **NytheraShield** — security hardening toolkit *(early stage)*.
-- **NytheraTweaks** — system tweaking utility for Arch/Hyprland setups *(early stage)*.
 
 <br/>
 
