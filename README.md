@@ -34,7 +34,7 @@ mindset:   if it's not documented, i'll document it myself
 <div align="center">
 
 <a href="https://github.com/nythera-stack/Rebuild-Exodia-repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nythera-stack&repo=Rebuild-Exodia-repo&theme=radical&hide_border=true&bg_color=0d0221" />
+  <img src="https://github-readme-stats-nythera-stacks-projects.vercel.app/api/pin/?username=nythera-stack&repo=Rebuild-Exodia-repo&theme=radical&hide_border=true&bg_color=0d0221" />
 </a>
 
 </div>
@@ -47,8 +47,8 @@ mindset:   if it's not documented, i'll document it myself
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nythera-stack&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nythera-stack&layout=compact&theme=radical&hide_border=true&bg_color=0d0221" height="165" />
+<img src="https://github-readme-stats-nythera-stacks-projects.vercel.app/api?username=nythera-stack&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&count_private=true" height="165" />
+<img src="https://github-readme-stats-nythera-stacks-projects.vercel.app/api/top-langs/?username=nythera-stack&layout=compact&theme=radical&hide_border=true&bg_color=0d0221" height="165" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nythera-stack&theme=radical&hide_border=true&background=0d0221" height="165" />
 
